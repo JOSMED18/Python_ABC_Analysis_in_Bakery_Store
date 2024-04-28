@@ -27,5 +27,5 @@ Here we see sales through the whole dataset period, and we could see some season
 ### Inventory Management
 What happens inside a warehouse? There are boxes and pallets going from one place to another and that movement have a cost. As a consequence, movement have to be optimized. So it's better to have your category A as near as possible from de doors so you can find it quickly. 
 
-##Conclusion
+## Conclusion
 ABC analysis can save a bunch of time in forecasting analysis and also a lot of money in terms of warehouse management. It is a good place to start an analysis and set the basis for further analysis in Supply Chain Management. 
